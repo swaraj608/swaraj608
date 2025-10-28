@@ -40,12 +40,6 @@ I’m a passionate **Full-Stack Developer** and enthusiastic **open source contr
   <img src="https://streak-stats.demolab.com?user=swaraj608&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swaraj608&style=flat-square" />
-
-</p>
-
-
 ## 🤝 Let’s Connect
 
 I’m always open to collaboration, discussions, and new opportunities!  
