@@ -25,6 +25,7 @@ I’m a passionate **Full-Stack Developer** and enthusiastic **open source contr
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -41,7 +42,7 @@ I’m a passionate **Full-Stack Developer** and enthusiastic **open source contr
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swaraj608&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/swaraj608?label=Follow&style=social" />
+
 </p>
 
 
