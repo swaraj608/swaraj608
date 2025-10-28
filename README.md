@@ -28,6 +28,23 @@ I’m a passionate **Full-Stack Developer** and enthusiastic **open source contr
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swaraj608&show_icons=true&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj608&layout=compact&theme=react" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swaraj608&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swaraj608&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/swaraj608?label=Follow&style=social" />
+</p>
+
+
 ## 🤝 Let’s Connect
 
 I’m always open to collaboration, discussions, and new opportunities!  
