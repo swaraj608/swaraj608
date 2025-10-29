@@ -51,6 +51,3 @@ Let me know and I'll update this section!
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaraj608&show_icons=true&theme=react" alt="Swaraj's GitHub Stats" />
-</p>
