@@ -8,7 +8,8 @@ I’m a passionate **Full-Stack Developer** and enthusiastic **open source contr
 
 - 🎯  Passionate about turning ideas into polished, accessible, and high-performance web experiences.
 - 💡  I build component-driven interfaces with a focus on usability, maintainability, and delightful micro-interactions.
-- 🔧  My toolkit centers on modern frameworks and best practices: React, Next.js, and TypeScript for robust frontends; Tailwind CSS and Bootstrap for fast, beautiful UI; MongoDB and Node for reliable backends.
+- 🔧  My toolkit centers on modern frameworks and best practices: React, Next.js, and TypeScript for robust frontends; Tailwind CSS and
+      Bootstrap for fast, beautiful UI; MongoDB and Node for reliable backends.
 - 🤝  Active in open source - I enjoy collaborating. 
 
 ---
