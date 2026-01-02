@@ -6,26 +6,25 @@ I’m a passionate **Full-Stack Developer** and enthusiastic **open source contr
 
 ## 🚀 About Me
 
-- 💻 **Frontend Specialist:**  
-  Skilled in building dynamic interfaces with **React.js**, **Tailwind CSS**, and **Bootstrap**.
-
-- 🛠️ **What I Love:**  
-  - Open source collaboration  
-  - Building developer tools  
-  - Empowering users through thoughtful design
+- 🎯  Passionate about turning ideas into polished, accessible, and high-performance web experiences.
+- 💡  I build component-driven interfaces with a focus on usability, maintainability, and delightful micro-interactions.
+- 🔧  My toolkit centers on modern frameworks and best practices: React, Next.js, and TypeScript for robust frontends; Tailwind CSS and Bootstrap for fast, beautiful UI; MongoDB and Node for reliable backends.
+- 🤝  Active in open source - I enjoy collaborating. 
 
 ---
 
 ## 🌟 Tech Stack
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ---
 
@@ -40,14 +39,7 @@ I’m a passionate **Full-Stack Developer** and enthusiastic **open source contr
   <img src="https://streak-stats.demolab.com?user=swaraj608&theme=react&hide_border=true" />
 </p>
 
-## 🤝 Let’s Connect
+## 🤝 Get in Touch
 
 I’m always open to collaboration, discussions, and new opportunities!  
-
-<!--
-Want to showcase your projects, social media, or anything else?  
-Let me know and I'll update this section!
--->
-
----
-
+Email: [swarajmedha@gmail.com](mailto:swarajmedha@gmail.com)
